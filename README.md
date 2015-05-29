@@ -10,8 +10,8 @@ This was for a code review.
 The game is supposed to have a user input a sentence or a word, then go to another page where it would show the word or phrase in 'code' (which is merely the vowels replaced by a dash)
 Links
 
-Heroku: www.samplelinkhere.com
-GitHub: www.samplelinkhere.com
+Heroku: https://lit-cove-3091.herokuapp.com/
+GitHub: https://github.com/dbalbo/word_game
 Installation
 
 Gems
@@ -30,6 +30,8 @@ Both method and integration tests for PROJECT NAME utilize the RSpec. Simply run
 
 
 WORD GAME is still a work in progress. The following are features, fixes and tweaks to be implemented as the project develops.
+
+ Heroku link:https://lit-cove-3091.herokuapp.com/
 
 
 
