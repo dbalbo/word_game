@@ -25,13 +25,13 @@ Pry
 
 To install, run $ gem install bundle in the command line.
 
-Both method and integration tests for PROJECT NAME utilize the RSpec. Simply run $ gem install rspec, if it's not already installed, and then the command rspec, while located in the project's file.
+Both method and integration tests for WORD GAME utilize the RSpec. Simply run $ gem install rspec, if it's not already installed, and then the command rspec, while located in the project's file.
 
 
 
 WORD GAME is still a work in progress. The following are features, fixes and tweaks to be implemented as the project develops.
 
- Heroku link:https://lit-cove-3091.herokuapp.com/
+
 
 
 
