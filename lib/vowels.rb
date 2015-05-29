@@ -20,8 +20,8 @@ class String
     #changed it to a string.
     # that is what I was trying to do--the 'long way around'
     # is hard for me.
-    # I have ZERO problems with 'the multiple levels of abstraction'.
+    # I have ZERO problems with 'the multiple levels of abstraction'.(for real)
+
    words = str.gsub(/[aeiouAEIOU]/, '-')
   end
-
 end
